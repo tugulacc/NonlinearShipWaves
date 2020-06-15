@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
+"""
+Auxilliary functions to compute the Jacobian of the linear system
 """
 #import scipy as sc
 import numpy as np
